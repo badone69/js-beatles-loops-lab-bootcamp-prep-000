@@ -16,6 +16,6 @@ function johnLennonFacts(){
   var exclfacts = [];
   var i = 0;
   while (i < exclfacts.length) {
-    
+      
   }
 }
