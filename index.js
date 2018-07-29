@@ -19,5 +19,5 @@ function johnLennonFacts(){
       exclfacts.push(facts[i] + "!!!")
       i++;
   }
-  return newjlFacts;
+  return exclfacts;
 }
